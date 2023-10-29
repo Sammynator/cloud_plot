@@ -95,4 +95,10 @@ body {
     display: none;
 }
 
+.error {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 15px;
+    display: none;
+}
 
